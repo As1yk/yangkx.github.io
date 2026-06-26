@@ -38,14 +38,12 @@ He serves as an Associate Editor of Pattern Recognition, a leading journal in pa
 <span class='anchor' id='-publications'></span>
 
 # 📝 Selected Publications 
-(* indicates corresponding author)
-
-- [Ensemble-Enhanced Semi-Supervised Learning With Optimized Graph Construction for High-Dimensional Data](https://doi.org/10.1109/TPAMI.2024.3486319), Guojie Li, Zhiwen Yu, **Kaixiang Yang**, C. L. Philip Chen, and Xuelong Li, **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, 2025.
 - [C-HyPOD: Causal Hyperbolic Representation Learning with Prototype Orthogonal Disentanglement for Graph Out-of-Distribution Recommendation](https://doi.org/10.1145/3774904.3792553), Jiahao Liang, Yutian Xiao, Haoran Yang, Zhiwen Yu, Jia-Nan Liu, and **Kaixiang Yang**, **The ACM Web Conference (WWW)**, 2026.
 - [Adaptive Weighted Double Uncertainty Incrementally Active Learning for Multi-Class Imbalanced Data](https://doi.org/10.1109/TKDE.2025.3631144), Wuxing Chen, Zhiwen Yu, **Kaixiang Yang**, Ziwei Fan, and C. L. Philip Chen, **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2026.
 - [Dynamic Chunk-Based Active Learning Based on Enhanced Broad Learning System for Imbalanced Drifting Data Streams](https://doi.org/10.1109/TKDE.2025.3631126), Mianfen Lin, Zhiwen Yu, **Kaixiang Yang**, and C. L. Philip Chen, **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2026.
 - [Weighted Subspace Graph Learning for High-Dimensional Data](https://doi.org/10.1109/TKDE.2026.3656436), Guojie Li, Zhiwen Yu, Ziwei Fan, **Kaixiang Yang**, and C. L. Philip Chen, **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2026.
 - [Democratic Recommendation With User and Item Representatives Produced by Graph Condensation](https://doi.org/10.1109/TKDE.2026.3669777), Jiahao Liang, Haoran Yang, Xiangyu Zhao, Zhiwen Yu, Guandong Xu, Wanyu Wang, and **Kaixiang Yang**, **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2026.
+- [Ensemble-Enhanced Semi-Supervised Learning With Optimized Graph Construction for High-Dimensional Data](https://doi.org/10.1109/TPAMI.2024.3486319), Guojie Li, Zhiwen Yu, **Kaixiang Yang**, C. L. Philip Chen, and Xuelong Li, **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, 2025.
 - [Exploring Feature Selection With Limited Labels: A Comprehensive Survey of Semi-Supervised and Unsupervised Approaches](https://doi.org/10.1109/TKDE.2024.3397878), Guojie Li, Zhiwen Yu, **Kaixiang Yang**, Mianfen Lin, and C. L. Philip Chen, **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2024.
 - [Solving the Imbalanced Problem by Metric Learning and Oversampling](https://doi.org/10.1109/TKDE.2024.3419834), **Kaixiang Yang***, Zhiwen Yu, Wuxing Chen, Zefeng Liang, and C. L. Philip Chen, **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2024.
 - [Extracting and Composing Robust Features With Broad Learning System](https://doi.org/10.1109/TKDE.2021.3137792), **Kaixiang Yang***, Yuchen Liu, Zhiwen Yu, and C. L. Philip Chen, **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2023.
@@ -69,7 +67,6 @@ He serves as an Associate Editor of Pattern Recognition, a leading journal in pa
 - *2022*: &nbsp;🏆 **CCF Natural Science Second Prize** (CCF自然科学二等奖)
 - *2021*: &nbsp;🏆 **Wu Wenjun Artificial Intelligence Science and Technology Second Prize** (吴文俊人工智能科学技术二等奖)
 - *2020*: &nbsp;🏆 **Zhejiang Province Science and Technology Progress First Prize** (浙江省科技进步一等奖)
-- **IEEE Senior Member**
 - **Guangdong Provincial Major Talent Project** (广东省重大人才工程入选者)
 
 <span class='anchor' id='-professional-services'></span>
@@ -77,13 +74,13 @@ He serves as an Associate Editor of Pattern Recognition, a leading journal in pa
 # 📋 Professional Services
 
 ## Editorial Board
-- **Associate Editor**, *Pattern Recognition* (PR) — flagship journal in pattern recognition and AI
+- **Associate Editor**, *Pattern Recognition* (PR)
 - **Vice Director of Youth Editorial Board**, *Automation and Information Engineering* (自动化与信息工程)
 - **Guest Editor**, *IEEE Journal of Biomedical and Health Informatics* (IEEE JBHI)
 - **Guest Editor**, *IEEE Transactions on Consumer Electronics* (IEEE TCE)
 
 ## Conference Service
-- Program Committee Member / Reviewer: ICML, NeurIPS, KDD, AAAI, IJCAI, WWW, CVPR
+- Program Committee Member / Reviewer: ICML, NeurIPS, KDD, AAAI, WWW, CVPR
 
 ## Professional Membership
 - **IEEE Senior Member**

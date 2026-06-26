@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Kaixiang Yang / 杨楷翔"
   avatar           : "images/yangkaixiang.jpg"
-  bio              : "IEEE Senior Member, Associate Professor, Doctoral Supervisor"
+  bio              : 
   location         : "Guangzhou, China"
   employer         : "South China University of Technology"
   pubmed           :
@@ -44,8 +44,8 @@ author:
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # e.g., "linkedin username"
-   dblp             : "https://dblp.org/pid/304/5092"
-   orcid            : "https://orcid.org/0000-0002-9885-1748"
+   dblp             : # "https://dblp.org/pid/304/5092"
+   orcid            : # "https://orcid.org/0000-0002-9885-1748"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

@@ -26,7 +26,7 @@ Dr. Yang has published more than 100 papers in leading international journals an
 
 He serves as an Associate Editor of Pattern Recognition, a leading journal in pattern recognition and artificial intelligence, Vice Chair of the Young Editorial Board of Automation & Information Engineering, and has been invited to serve as a Guest Editor for journals including IEEE Journal of Biomedical and Health Informatics and IEEE Transactions on Consumer Electronics.
 
-<a href='https://scholar.google.com/citations?user=m6Q3Xa0AAAAJ&hl=zh-CN&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<a href='https://scholar.google.com/citations?user=m6Q3Xa0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <span class='anchor' id='-research-interests'></span>
 
@@ -104,26 +104,11 @@ He serves as an Associate Editor of Pattern Recognition, a leading journal in pa
 
 # 📢 Recruitment
 
-**计划招收**: 每年拟招收 **博士生 1 名**、**硕士生 3–4 名**、**本科生 3–5 名**。
-
-**研究方向** 包括但不限于：
-- 可信机器学习 (Trustworthy Machine Learning)
-- 数据挖掘 (Data Mining)
-- 工业物联网 (Industrial IoT)
-- AI4Science (AI for Science)
-
-**课题组优势**：
-- 🌍 提供与 **牛津大学、南洋理工大学、香港科技大学** 等国际顶尖高校的深度合作与交流机会
-- 💻 充足的 GPU 计算资源和科研经费支持
-- 🤝 开放包容的课题组氛围，导师亲自指导
-
-欢迎对科研有热情的本科生、硕士生、博士生加入！有意者请将简历发送至 **yangkx@scut.edu.cn**。
-
 ## Open Positions
 
 We are looking for **1 Ph.D. student**, **3–4 Master's students**, and **3–5 undergraduate research assistants** each year.
 
-### Research Areas
+## Research Areas
 
 Our research interests include, but are not limited to:
 
@@ -132,15 +117,13 @@ Our research interests include, but are not limited to:
 * Industrial Internet of Things 
 * AI for Science
 
-### Why Join Our Group?
+## Why Join Our Group?
 
 * Opportunities for research collaboration and academic exchange with world-leading universities, including the **University of Oxford**, **Nanyang Technological University (NTU)**, and the **Hong Kong University of Science and Technology (HKUST)**.
 * Access to abundant GPU computing resources and strong research funding.
 * An open, collaborative, and supportive research environment with close mentorship from the advisor.
 
-We warmly welcome **undergraduate, master's, and Ph.D. students** who are passionate about research. If you are interested in joining our group, please send your **CV** to:
-
-**[yangkx@scut.edu.cn](mailto:yangkx@scut.edu.cn)**
+We warmly welcome **undergraduate, master's, and Ph.D. students** who are passionate about research. If you are interested in joining our group, please send your **CV** to: **yangkx@scut.edu.cn**
 
 
 

@@ -22,11 +22,10 @@ Kaixiang Yang, **IEEE Senior Member**, is an **Associate Professor**, **Ph.D. Su
 
 He has led numerous competitive research projects, including the National Natural Science Foundation of China (NSFC) General Program, the NSFC Young Scientists Fund (Category C), the SCUT–Zhuoyi Technology Joint Laboratory for Artificial Intelligence, the Guangdong Regional Joint Fund, and the CCF–DiDi Gaia Research Fund.
 
-Dr. Yang has published more than 100 papers in leading international journals and conferences, including **IEEE TPAMI, TKDE, TIP, TNNLS**, and top-tier AI/ML venues such as **ICML, NeurIPS, KDD, and AAAI**. Among them, 6 papers have been recognized as **ESI Hot Papers** or **Highly Cited Papers**. His work has received over 2,600 citations on Google Scholar, with an H-index of 26. He also holds 27 authorized invention patents.
+Dr. Yang has published more than 100 papers in leading international journals and conferences, including **IEEE TPAMI, TKDE, TIP, TNNLS**, and top-tier AI/ML venues such as **ICML, NeurIPS, KDD, and AAAI**. Among them, 6 papers have been recognized as **ESI Hot Papers** or **Highly Cited Papers**. His work has received over 2,600 citations on Google Scholar, with an H-index of 26(<a href="https://scholar.google.com/citations?hl=en&user=m6Q3Xa0AAAAJ" target="_blank">Google Scholar</a>). He also holds 27 authorized invention patents.
 
 He serves as an Associate Editor of Pattern Recognition, a leading journal in pattern recognition and artificial intelligence, Vice Chair of the Young Editorial Board of Automation & Information Engineering, and has been invited to serve as a Guest Editor for journals including IEEE Journal of Biomedical and Health Informatics and IEEE Transactions on Consumer Electronics.
 
-<a href='https://scholar.google.com/citations?user=m6Q3Xa0AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 <span class='anchor' id='-research-interests'></span>
 

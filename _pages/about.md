@@ -102,7 +102,7 @@ He serves as an Associate Editor of Pattern Recognition, a leading journal in pa
 
 <span class='anchor' id='-recruitment'></span>
 
-# 📢 Recruitment / 招生信息
+# 📢 Recruitment
 
 **计划招收**: 每年拟招收 **博士生 1 名**、**硕士生 3–4 名**、**本科生 3–5 名**。
 
@@ -118,6 +118,30 @@ He serves as an Associate Editor of Pattern Recognition, a leading journal in pa
 - 🤝 开放包容的课题组氛围，导师亲自指导
 
 欢迎对科研有热情的本科生、硕士生、博士生加入！有意者请将简历发送至 **yangkx@scut.edu.cn**。
+
+## Open Positions
+
+We are looking for **1 Ph.D. student**, **3–4 Master's students**, and **3–5 undergraduate research assistants** each year.
+
+### Research Areas
+
+Our research interests include, but are not limited to:
+
+* Trustworthy Machine Learning
+* Data Mining
+* Industrial Internet of Things 
+* AI for Science
+
+### Why Join Our Group?
+
+* Opportunities for research collaboration and academic exchange with world-leading universities, including the **University of Oxford**, **Nanyang Technological University (NTU)**, and the **Hong Kong University of Science and Technology (HKUST)**.
+* Access to abundant GPU computing resources and strong research funding.
+* An open, collaborative, and supportive research environment with close mentorship from the advisor.
+
+We warmly welcome **undergraduate, master's, and Ph.D. students** who are passionate about research. If you are interested in joining our group, please send your **CV** to:
+
+**[yangkx@scut.edu.cn](mailto:yangkx@scut.edu.cn)**
+
 
 
 
